@@ -20,15 +20,16 @@ GetSetGo-Holiday
 https://miro.com/app/board/uXjVM-LNrls=/
 
 ## Ürün Açıklaması
-GetSetGo-Holiday, tatilciler ve seyahat etmeyi sevenler için özel olarak tasarlanmış bir mobil uygulamadır. Kullanıcı dostu bu uygulama, tatil planlamanızı kolaylaştıracaktır. Yanınıza almanız gerekenleri hatırlamanızı sağlamak için uygulama içerisinde bir dizi özellik sunar. Seyahat rotalarınızın hava durumuna uygun olarak önerilerde bulunurken; bu öneri listelerini değiştirebilir, dilerseniz arkadaşlarınızı listenizi düzenlemeye davet edebilirsiniz. Bir aile grubu oluşturup tatile giderken asla unutmamanız gereken malzemelerinizi ekleyebilirsiniz. Dilediğiniz aralıklarda hatırlatıcı planlayıp valizinizi hazırlayabilirsiniz. Uygulama içerisinde valizinizin tamamlanma oranını görebilirsiniz.
+Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı kolaylaştıracak şekilde tasarlanmıştır. Seyahat sürecinizde yanınıza almanız gerekenleri hatırlamanızı sağlamak için uygulama içerisinde bir dizi hatırlatıcı özellik barındırmaktadır. Seyahat rotalarınızın hava durumuna uygun olarak önerilerde bulunurken; bu öneri listelerini değiştirebilir, dilerseniz arkadaşlarınızı listenizi düzenlemeye davet edebilirsiniz. Bir aile grubu oluşturup tatile giderken asla unutmamanız gereken malzemelerinizi ekleyebilirsiniz. Dilediğiniz aralıklarda hatırlatıcı planlayıp valizinizi hazırlayabilirsiniz. Uygulama içerisinde valizinizin tamamlanma oranını görebilirsiniz.
 
 ## Ürün Özellikleri
-- Valiz Listesi Oluşturma: Tatilinize uygun bir valiz listesi oluşturmanıza yardımcı olur. Tatil süresine, kişisel tercihlere ve destinasyona göre öneriler sunar.
-- Hava Durumu Bildirimleri: Seyahat edeceğiniz bölgenin güncel hava durumu bilgilerine erişmenizi sağlar. Hava durumuna göre öneri listesi güncellenir.
-- Acil Durum İletişimi: Seyahat sırasında acil durumlar için gerekli olan önemli iletişim bilgilerini sağlar.
-- Offline Erişim: İnternet bağlantısı olmasa dahi uygulamayı kullanabilmenizi sağlar. Liste oluşturma özelliklerini ve önceden indirilen bilgileri offline olarak kullanma imkanı tanır.
-- Paylaşımlı Liste: Ardaşlarınızla veya ailenizle ortak bir liste oluşturarak tatilinizi/etkinliğinizi eksiksiz geçirmenize yardımcı olur.
-- Bildirimler: Artık valizinizin eksikliklerini unutmayacaksınız. Dilediğiniz zaman aralıklarında hatırlayıcı planlayabilirsiniz.
+- Valizinizin eksiksiz olması için önerilerinde bulunur: kullanıcının kişisel ihtiyaçları (örn; ilaçlarınız, zorunlu ihtiyaçlar), seyahat etmeyi planladığı bölgenin hava durumu ve lokasyona göre öneri listeleri kullanıcıya sunmaktadır.
+- Ortak düzenlenebilir listeler özelliği mevcuttur: Ardaşlarınızla veya ailenizle ortak bir liste oluşturarak tatilinizi/etkinliğinizi eksiksiz geçirmenize yardımcı olur.
+- Hava koşullarına ve lokasyona göre öneriler sunmaktadır: Tatiliniz için uygulamadan girmiş olduğunuz lokasyon ve tarih bilgileri baz alınarak, o bölgenin hava durumu bilgilerini görmenizi sağlamaktadır. Tarih ve lokasyona göre baz alınan hava durumu (örn; yaz veya kış) öneri listesini güncellemekte kullanılır
+- Bildirimler istediğiniz zaman aralıklarındadır: Artık valizinizin eksikliklerini unutmayacaksınız. Dilediğiniz zaman aralıklarında hatırlayıcı planlayabilirsiniz.
+- Seyahatleriniz sırasında kolayca erişmeniz gereken bilgileri sunar: Tatiliniz sırasında acil bir durumla karşılaştığınızda aramanız gereken numaraları bilmiyorsanız, uygulama içerisinden lokasyona göre ilgili acil durum hatlarının numaralarına erişim sağlayabilirsiniz.
+- Arkadaş ekleme özelliği mevcuttur: Arkadaş ekleme özelliği sayesinde etkinliklerinizi planlayabilirsiniz.
+- İnternet bağlantısının olmadığı durumlarda bile çalışabilmektedir: Öneri listeleri internet bağlantısı olmaksızın kullanılmaktadır.
 
 ## Hedef Kitle
 - Gezginler
