@@ -45,10 +45,12 @@ Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı 
 # Sprint 1
 - Sprint içinde tamamlanması tahmin edilen puan:
 - Puan tamamlama mantığı:
-- Daily Scrum: 
+- Daily Scrum: Daily Scrum toplantıları zamansal nedenler dolayısıyla WhatsApp üzerinden devam etmektedir. Bu toplantılarda ürünün geliştirilmesi için kısa ve 
 - Sprint board update:
 - Sprint Review:
 - Sprint Retrospective:
+  Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 - Ürün Durumu:  <p float="left">
   <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/f163ec15-2654-4573-8278-7a7e6c591645"/>
   <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/e2a87a84-929f-4eaa-ae87-e9d381faa704"/>
