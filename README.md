@@ -9,7 +9,7 @@ Flutter F-102 Takımı
 ## Takım Elemanları
 - Berfin AYKAL: Product Owner / Scrum Master / Developer
 - Recep Batuhan Dikmen: Designer / Developer
-- Ali Ilgaz Karataş: Developer
+- Ali Ilgaz Karataş: Aktif olmayan üye
 - Buse Şener: Aktif olmayan üye
 - Alperen Nur: Aktif olmayan üye
 
@@ -47,10 +47,8 @@ Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı 
 - Puan tamamlama mantığı:
 - Daily Scrum: Daily Scrum toplantıları zamansal nedenler dolayısıyla WhatsApp üzerinden devam etmektedir. Bu toplantılarda ürünün geliştirilmesi için kısa ve 
 - Sprint board update:
-- Sprint Review:
-- Sprint Retrospective:
-  Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
-Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+- Sprint Review: Aktif olmayan üyelere erişim sağlanmaya çalışıldı. Geri dönüş alınamayınca görev dağılımları değiştirildi.
+- Sprint Retrospective: Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 - Ürün Durumu:  <p float="left">
   <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/f163ec15-2654-4573-8278-7a7e6c591645"/>
   <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/e2a87a84-929f-4eaa-ae87-e9d381faa704"/>
