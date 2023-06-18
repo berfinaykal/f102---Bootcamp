@@ -41,6 +41,7 @@ Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı 
 - Arkadaş grupları
   
 ## Juriye Not
+Üyelik formu oluşturuldu ve diğer ekranların tasarımları yapıldı, tecrübe yetersizliği ve final sınavları sebebiyle hatırlatıcılar henüz ayarlanmadı.
 
 # Sprint 1
 - Sprint içinde tamamlanması tahmin edilen puan:
@@ -55,4 +56,62 @@ Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı 
 </p>
 
 ## Product Backlog URL
-https://miro.com/app/board/uXjVM-LNrls=/
+[Flutter Team 102 Miro Backlog Board](https://miro.com/app/board/uXjVM-LNrls=/)
+
+---
+
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats]...
+
+- **Sprint board update**: Sprint board screenshotları: 
+...
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+...
+  
+- **Sprint Review**: 
+Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. 
+Sprint Review katılımcıları: ...
+
+- **Sprint Retrospective:**
+
+  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
+
+---
+
+## Product Backlog URL
+
+[Flutter Team 102 Miro Backlog Board](https://miro.com/app/board/uXjVM-LNrls=/)
+
+---
+
+# Sprint 3
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats]...
+- 
+- **Sprint board update**: Sprint board screenshotları: 
+...
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ...
+
+
+- **Sprint Review**: 
+Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. 
+Sprint Review katılımcıları: ...
+
+- **Sprint Retrospective:**
+
+  - Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
+
+---
