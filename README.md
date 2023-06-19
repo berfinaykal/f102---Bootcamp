@@ -44,8 +44,8 @@ Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı 
 Üyelik formu oluşturuldu ve diğer ekranların tasarımları yapıldı, tecrübe yetersizliği ve final sınavları sebebiyle hatırlatıcılar henüz ayarlanmadı.
 
 # Sprint 1
-- Sprint içinde tamamlanması tahmin edilen puan:
-- Puan tamamlama mantığı:
+- Sprint içinde tamamlanması tahmin edilen puan: 4 Puan
+- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 11 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 4 ile başlaması gerektiğine karar verildi.
 - Daily Scrum: Daily Scrum toplantıları zamansal nedenler dolayısıyla WhatsApp üzerinden devam etmektedir. Bu toplantılarda ürünün geliştirilmesi için kısa ve 
 - Sprint board update:
 - Sprint Review: Aktif olmayan üyelere erişim sağlanmaya çalışıldı. Geri dönüş alınamayınca görev dağılımları değiştirildi.
