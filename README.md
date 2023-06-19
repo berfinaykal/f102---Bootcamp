@@ -50,12 +50,22 @@ Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı 
 - Sprint board update:
 - Sprint Review: Aktif olmayan üyelere erişim sağlanmaya çalışıldı. Geri dönüş alınamayınca görev dağılımları değiştirildi.
 - Sprint Retrospective: Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
-- Ürün Durumu:  <p float="left">
+- Ürün Durumu:
+<p float="left">
   <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/f163ec15-2654-4573-8278-7a7e6c591645"/>
   <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/e2a87a84-929f-4eaa-ae87-e9d381faa704"/>
 </p>
 
 ## Product Backlog URL
 [Flutter Team 102 Miro Backlog Board](https://miro.com/app/board/uXjVM-LNrls=/)
+
+## Sprint Board Update
+<p float="left">
+  <img width="100%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/d2f55e21-3494-429b-8ffd-82d81dcd3135"/>
+</p>
+
+## Daily Scrum
+
+[Sprint 1 Daily Scrum Chats.docx](https://docs.google.com/document/d/1y5RSvjb4zVz1L2tiSGmfac6fp9QdztNW/edit?usp=sharing&ouid=116550724922360634346&rtpof=true&sd=true)
 
 ---
