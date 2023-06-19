@@ -44,6 +44,7 @@ Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı 
 Üyelik formu oluşturuldu ve diğer ekranların tasarımları yapıldı, tecrübe yetersizliği ve final sınavları sebebiyle hatırlatıcılar henüz ayarlanmadı.
 
 # Sprint 1
+- Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 - Sprint içinde tamamlanması tahmin edilen puan: 4 Puan
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 11 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 4 ile başlaması gerektiğine karar verildi.
 - Daily Scrum: Daily Scrum toplantıları zamansal nedenler dolayısıyla WhatsApp üzerinden devam etmektedir. Bu toplantılarda ürünün geliştirilmesi için kısa sürede reaksiyon alınacak şekilde planlamalar yapılmıştır.  [Sprint 1 Daily Scrum Chats.docx](https://docs.google.com/document/d/1y5RSvjb4zVz1L2tiSGmfac6fp9QdztNW/edit?usp=sharing&ouid=116550724922360634346&rtpof=true&sd=true)
