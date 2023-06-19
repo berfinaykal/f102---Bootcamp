@@ -48,6 +48,10 @@ Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı 
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 11 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 4 ile başlaması gerektiğine karar verildi.
 - Daily Scrum: Daily Scrum toplantıları zamansal nedenler dolayısıyla WhatsApp üzerinden devam etmektedir. Bu toplantılarda ürünün geliştirilmesi için kısa sürede reaksiyon alınacak şekilde planlamalar yapılmıştır.  [Sprint 1 Daily Scrum Chats.docx](https://docs.google.com/document/d/1y5RSvjb4zVz1L2tiSGmfac6fp9QdztNW/edit?usp=sharing&ouid=116550724922360634346&rtpof=true&sd=true)
 - Sprint board update:
+<p float="left">
+  <img width="100%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/d2f55e21-3494-429b-8ffd-82d81dcd3135"/>
+</p>
+
 - Sprint Review: Aktif olmayan üyelere erişim sağlanmaya çalışıldı. Geri dönüş alınamayınca görev dağılımları değiştirildi.
 - Sprint Retrospective: Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
 - Ürün Durumu:
@@ -58,10 +62,5 @@ Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı 
 
 ## Product Backlog URL
 [Flutter Team 102 Miro Backlog Board](https://miro.com/app/board/uXjVM-LNrls=/)
-
-## Sprint Board Update
-<p float="left">
-  <img width="100%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/d2f55e21-3494-429b-8ffd-82d81dcd3135"/>
-</p>
 
 ---
