@@ -9,7 +9,7 @@ Flutter F-102 Takımı
 ## Takım Elemanları
 - Berfin AYKAL: Product Owner / Scrum Master / Developer
 - Recep Batuhan Dikmen: Designer / Developer
-- Ali Ilgaz Karataş: Team Member / Developer
+- Ali Ilgaz Karataş: Aktif olmayan üye
 - Buse Şener: Aktif olmayan üye
 - Alperen Nur: Aktif olmayan üye
 
@@ -59,6 +59,29 @@ Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı 
 <p float="left">
   <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/f163ec15-2654-4573-8278-7a7e6c591645"/>
   <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/e2a87a84-929f-4eaa-ae87-e9d381faa704"/>
+  
+</p>
+
+## Product Backlog URL
+[Flutter Team 102 Miro Backlog Board](https://miro.com/app/board/uXjVM-LNrls=/)
+
+---
+# Sprint 2
+- Sprint içinde tamamlanması tahmin edilen puan: 4 Puan
+- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 11 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 4 olması gerektiğine karar verildi.
+- Daily Scrum: Daily Scrum toplantıları zamansal nedenler dolayısıyla WhatsApp üzerinden devam etmektedir.
+- Sprint board update:
+<p float="left">
+  <img width="100%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/d2f55e21-3494-429b-8ffd-82d81dcd3135"/>
+</p>
+
+- Sprint Review: Aktif olmayan üyelere erişim sağlanmaya çalışıldı. Geri dönüş alınamayınca görev dağılımları değiştirildi. Sprint review katılımcıları: Berfin AYKAL
+- Sprint Retrospective: Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+- Ürün Durumu:
+<p float="left">
+  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/f163ec15-2654-4573-8278-7a7e6c591645"/>
+  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/e2a87a84-929f-4eaa-ae87-e9d381faa704"/>
+  
 </p>
 
 ## Product Backlog URL
