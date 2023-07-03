@@ -69,7 +69,7 @@ Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı 
 # Sprint 2
 - Sprint içinde tamamlanması tahmin edilen puan: 4 Puan
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 11 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 4 olması gerektiğine karar verildi.
-- Daily Scrum: Daily Scrum toplantıları zamansal nedenler dolayısıyla WhatsApp üzerinden devam etmektedir.
+- Daily Scrum: Daily Scrum toplantıları zamansal nedenler dolayısıyla WhatsApp üzerinden devam etmektedir. [Sprint 2 Daily Scrum Chats.docx](https://docs.google.com/document/d/1C2DuTKgG960i3REn5_QswnciPtVJXQKRKcU3Fvl_K14/edit?usp=sharing)
 - Sprint board update:
 <p float="left">
   <img width="100%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/d2f55e21-3494-429b-8ffd-82d81dcd3135"/>
