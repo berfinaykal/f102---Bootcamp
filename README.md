@@ -8,7 +8,7 @@ Flutter F-102 Takımı
 
 ## Takım Elemanları
 - Berfin AYKAL: Product Owner / Scrum Master / Developer
-- Recep Batuhan Dikmen: Designer / Developer
+- Recep Batuhan Dikmen: Aktif olmayan üye
 - Ali Ilgaz Karataş: Aktif olmayan üye
 - Buse Şener: Aktif olmayan üye
 - Alperen Nur: Aktif olmayan üye
