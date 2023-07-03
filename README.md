@@ -72,7 +72,7 @@ Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı 
 - Daily Scrum: Daily Scrum toplantıları zamansal nedenler dolayısıyla WhatsApp üzerinden devam etmektedir. [Sprint 2 Daily Scrum Chats.docx](https://docs.google.com/document/d/1C2DuTKgG960i3REn5_QswnciPtVJXQKRKcU3Fvl_K14/edit?usp=sharing)
 - Sprint board update:
 <p float="left">
-  <img width="100%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/d2f55e21-3494-429b-8ffd-82d81dcd3135"/>
+  <img width="100%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint2Documents/Backlog_Sprint_2.png"/>
 </p>
 
 - Sprint Review: Aktif olmayan üyelere erişim sağlanmaya çalışıldı. Geri dönüş alınamayınca görev dağılımları değiştirildi. Sprint review katılımcıları: Berfin AYKAL
