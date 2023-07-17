@@ -41,7 +41,7 @@ Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı 
 - Arkadaş grupları
   
 ## Juriye Not
-Üyelik formu oluşturuldu ve diğer ekranların tasarımları yapıldı, tecrübe yetersizliği ve final sınavları sebebiyle hatırlatıcılar henüz ayarlanmadı.
+Aktif olmayan üyeler nedeniyle iş paylaşım süreci aksadı. Bazı fonksiyonlar tamamlanamadı.
 
 # Sprint 1
 - Sprint Notları: User Story'ler product backlog'lara comment olarak yazılmıştır. Commentlere tıklandığında hikayelerin detayları okunabilir.
