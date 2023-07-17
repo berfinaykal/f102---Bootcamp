@@ -89,3 +89,26 @@ Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı 
 [Flutter Team 102 Miro Backlog Board](https://miro.com/app/board/uXjVM-LNrls=/)
 
 ---
+# Sprint 3
+
+- Srint içinde tamamlanması tahmin edilen puan: 3
+- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 11 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in 3 olması gerektiğine karar verildi.
+
+- Daily Scrum: Daily Scrum toplantıları zamansal nedenler dolayısıyla WhatsApp üzerinden devam etmektedir. [Sprint 2 Daily Scrum Chats.docx](https://docs.google.com/document/d/131jrcMDz2R59WO_h84g7_6MlFtEQQkH8HlY1lbj-nvo/edit?usp=sharing)
+
+- Sprint board update:
+<p float="left">
+  <img width="100%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint2Documents/Backlog_Sprint_3.png"/>
+</p>
+- Sprint Review: Aktif olmayan üyelere erişim sağlanmaya çalışıldı. Geri dönüş alınamayınca görev dağılımları değiştirildi. Sprint review katılımcıları: Berfin AYKAL
+- Sprint Retrospective: Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+- Ürün Durumu:
+<p float="left">
+  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/f163ec15-2654-4573-8278-7a7e6c591645"/>
+  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/e2a87a84-929f-4eaa-ae87-e9d381faa704"/>
+  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint2Documents/main_screen.png"/>
+  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint2Documents/list.png"/>
+</p>
+
+## Product Backlog URL
+[Flutter Team 102 Miro Backlog Board](https://miro.com/app/board/uXjVM-LNrls=/)
