@@ -98,16 +98,22 @@ Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı 
 
 - Sprint board update:
 <p float="left">
-  <img width="100%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint2Documents/Backlog_Sprint_3.png"/>
+  <img width="100%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint3Documents/Backlog_Sprint_3.PNG"/>
 </p>
+
 - Sprint Review: Aktif olmayan üyelere erişim sağlanmaya çalışıldı. Geri dönüş alınamayınca görev dağılımları değiştirildi. Sprint review katılımcıları: Berfin AYKAL
 - Sprint Retrospective: Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 - Ürün Durumu:
 <p float="left">
-  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/f163ec15-2654-4573-8278-7a7e6c591645"/>
-  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/assets/62702645/e2a87a84-929f-4eaa-ae87-e9d381faa704"/>
-  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint2Documents/main_screen.png"/>
-  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint2Documents/list.png"/>
+  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint3Documents/category.png"/>
+  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint3Documents/home.png"/>
+  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint3Documents/my_list.png"/>
+  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint3Documents/new_list.png"/>
+  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint3Documents/picnic_task.png"/>
+  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint3Documents/report.png"/>
+  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint3Documents/spring_list.png"/>
+  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint3Documents/login.png"/>
+  <img width="30%" src="https://github.com/berfinaykal/f102---Bootcamp/blob/main/ProjectManagement/Sprint3Documents/get_started.png"/>
 </p>
 
 ## Product Backlog URL
