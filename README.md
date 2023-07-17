@@ -94,7 +94,7 @@ Bu mobil uygulama, tatil ve seyahat etmeyi sevenler için tatil planlarınızı 
 - Srint içinde tamamlanması tahmin edilen puan: 3
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 11 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in 3 olması gerektiğine karar verildi.
 
-- Daily Scrum: Daily Scrum toplantıları zamansal nedenler dolayısıyla WhatsApp üzerinden devam etmektedir. [Sprint 2 Daily Scrum Chats.docx](https://docs.google.com/document/d/131jrcMDz2R59WO_h84g7_6MlFtEQQkH8HlY1lbj-nvo/edit?usp=sharing)
+- Daily Scrum: Daily Scrum toplantıları zamansal nedenler dolayısıyla WhatsApp üzerinden devam etmektedir. [Sprint 3 Daily Scrum Chats.docx](https://docs.google.com/document/d/131jrcMDz2R59WO_h84g7_6MlFtEQQkH8HlY1lbj-nvo/edit?usp=sharing)
 
 - Sprint board update:
 <p float="left">
